@@ -8,7 +8,8 @@ public class Main {
         int i;
         for(i=names.size()-1; i>=0;)
         {
-            if(names[i].contains("oggy"))
+            String arr = names.get(i);
+            if(arr.contains("oggy"))
                {
                    names.remove(i);
                }
