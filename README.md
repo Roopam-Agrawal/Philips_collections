@@ -1,11 +1,11 @@
-# Collections Exercise
+# Exercise to remove Oggy
 
 ## Intention
 
-This program intends to remove strings containing 'oggy' from a list of strings.
+This program intends to remove strings containing 'oggy' from a list of strings. Our instructor doesn't like Oggy and so do I. 
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
+The code works according to the intention. It successfully removes all strings containing Oggy!
 
-Don't forget to update this file after fixing the code.
+Yay!
